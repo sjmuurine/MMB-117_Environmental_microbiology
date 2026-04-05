@@ -6,7 +6,7 @@ Course was last time held in January 2025. This is the data analysis part.
 
 To run the analysis script MMB-117.R, you will need to download that and the files seqtab.rds and taxa.rds, open the file MMB-117.R in your R and follow the instructions in the scrip.
 
-The script analyses soil microbiomes in four sites and what environmental variables explain them 
+The script is for analyzing soil microbiomes in four sites and what environmental variables explain the microbiomes 
 
 # Soil Microbiome Analysis Pipeline
 ---
